@@ -1,0 +1,145 @@
+body{
+font-family: "Montserrat",sans-serif;
+}
+
+
+/* title section */
+#title{
+
+text-align: center;
+}
+.container-fluid {
+  padding: 3% 15% 8%;
+}
+
+.headline{
+padding: 1rem 0 ;
+font-weight: bold;
+  color:#619687;
+  padding: 1rem 0 ;
+
+}
+
+
+
+  .title-dot{
+    font-weight: bold;
+    color:#619687;
+    font-size: 2rem;
+  }
+  .btn{
+background-color:#619687;
+color: white;
+margin: 2rem 0 ;
+  }
+
+/* navigation bar */
+
+
+.navbar{
+padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  color:#619687;
+  font-family: "ubuntu";
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.navbar-brand:hover{
+  color:#619687;
+}
+.nav-link{
+  color:#619687;
+  font-size: 1.2rem;
+}
+.nav-link:hover{
+  color:#619687;
+}
+.navbar-toggler:hover{
+  color: black;
+}
+
+/* services section */
+#services{
+  padding: 100px;
+    text-align: center;
+      background-color: #D2ECE5;
+
+}
+.second-heading{
+  font-size: 4rem;
+}
+/* card */
+.card{
+margin: 40px 30px;
+color: white;
+background-color:#619687;
+
+}
+.card-img-top{
+width: 10rem;
+height: 10rem;
+background-color:#619687;
+margin: 0 auto;
+}
+.card-text{
+  font-family: "ubuntu";
+}
+.card-t{
+  font-weight:bold;
+}
+/* testimonial section */
+#testimonials{
+  padding: 10% 15%;
+  text-align: center;
+  color: #619687;
+}
+.test{
+  font-size: 2.5rem;
+  line-height:1.5;
+
+}
+.customer-img{
+  margin: 15px auto
+}
+/* section contact */
+#contact{
+  padding: 8% 15% 5%;
+  background-color: #D2ECE5;
+  text-align: center;
+}
+
+
+h1{
+    color: #619687;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 2;
+}
+
+b{
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+
+
+
+
+
+
+
+
+#footer{
+  text-align: center;
+  margin:40px auto  5px;
+}
+span {
+  margin: 10px 15px  ;
+}
+.copy{
+  padding: 20px 0 0;
+}
+.social{
+  background-color: #D2ECE5;
+}
